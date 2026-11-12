@@ -1,0 +1,25 @@
+[theme]
+base = "light"
+primaryColor = "#1A1A18"
+backgroundColor = "#F4F3EE"
+secondaryBackgroundColor = "#ECEAE3"
+textColor = "#1A1A18"
+font = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@300..700&display=swap"
+headingFont = "Newsreader:https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400..700&display=swap"
+codeFont = "Geist Mono:https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400..600&display=swap"
+baseRadius = "small"
+borderColor = "#E2E0D8"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#121211"
+secondaryBackgroundColor = "#1E1E1C"
+textColor = "#E8E6DF"
+primaryColor = "#E8E6DF"
+borderColor = "#2C2C29"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
