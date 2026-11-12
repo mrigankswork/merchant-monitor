@@ -1,6 +1,6 @@
 # Betting-Shaped Money: Merchant Monitor (prototype)
 
-A working prototype that spots payment-aggregator merchants whose money is *betting-shaped* (for example, "a bakery that takes bets"), even when betting is hidden inside genuine sales. It links front merchants into networks and responds proportionately so genuine merchants are not harmed.
+A working prototype that spots payment-aggregator merchants whose money is *betting-shaped* (for example, "a bakery that takes bets"), even when betting is hidden inside genuine sales. It links front merchants into networks and responds proportionately so genuine merchants are not harmed. Working prototype link is present here: https://merchant-monitor-75zpzoeul7zm3tnzxyajvg.streamlit.app/ 
 
 **Prototype · synthetic data.** Every merchant, person, IP (RFC 5737) and domain (`.example`) is fictional. There are no real names and no external calls, and no figure claims real-world accuracy.
 
